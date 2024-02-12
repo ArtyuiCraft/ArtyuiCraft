@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artyui</h1>
 <h3 align="center">A passionate python developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on [Termulation](https://github.com/ArtyuiCraft/Termulation)
+- 🔭 I’m currently working on [FuzionLaunch](https://github.com/ArtyuiCraft/FuzionLaunch)
 
 - 🌱 I’m currently learning **To make better graphics with python**
 
