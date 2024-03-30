@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Artyuicraft@gmail.com**
 
-- **🚨 Disclaimer: 🚨** i am still not very good at python i can make pretty advanced programs but please don't ask me hard questions
+- **🚨 Disclaimer: 🚨** please don't ask me hard questions about stuff because i am not very good at answering them
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
