@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-
-
-- 💬 Ask me about **Python and rust (disclaimer: i am not very good in rust)**
+- 💬 Ask me about **Python and rust (disclaimer: i am not very good at rust just yet)**
 
 - 📫 How to reach me **Artyuicraft@gmail.com**
 
